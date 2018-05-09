@@ -37,6 +37,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
       camera.startPreview();
     }catch (IOException e){
       e.printStackTrace();
+      // another change 3
     }
   }
 
