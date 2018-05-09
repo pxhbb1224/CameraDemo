@@ -45,6 +45,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     // Ignored, Camera does all the work for us
     // test for branch \1
     // test for branch \2
+    // test for branch \3
   }
 
   @Override
