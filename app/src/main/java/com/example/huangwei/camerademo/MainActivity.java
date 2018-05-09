@@ -50,6 +50,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     // test for branch \2
     // again
     // add test 1
+    // add test 2
   }
 
   @Override
