@@ -43,6 +43,9 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
   @Override
   public void onSurfaceTextureSizeChanged(SurfaceTexture surface, int width, int height) {
     // Ignored, Camera does all the work for us
+    // test for branch \1
+    // test for branch \2
+    // test for branch \3
     // test for master
     // test for branch \2
   }
