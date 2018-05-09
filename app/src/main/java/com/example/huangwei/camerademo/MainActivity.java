@@ -78,6 +78,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
       e.printStackTrace();
     }catch (NullPointerException e){
       e.printStackTrace();
+      // another change
     }
   }
 }
